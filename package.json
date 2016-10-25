@@ -71,5 +71,6 @@
     "extends": [
       "xo-space"
     ]
-  }
+  },
+  "license": "MIT"
 }
