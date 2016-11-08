@@ -16,5 +16,5 @@ sudo npm install --save-dev gulp
 sudo npm install
 ```
 
-Once these commands have been run you can run the server on your local machine through the command: ``` <b>gulp serve</b> ```
+Once these commands have been run you can run the server on your local machine through the command: <b>`gulp serve`</b>
 
